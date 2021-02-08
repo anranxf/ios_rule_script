@@ -1,11 +1,11 @@
 # NAME: LastPass
 # AUTHOR: blackmatrix7
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-01-07 02:59:53
+# UPDATED: 2021-02-08 02:42:12.639473
 # USER-AGENT: 1
 # DOMAIN-SUFFIX: 1
 # PROCESS-NAME: 1
 # TOTAL: 3
 DOMAIN-SUFFIX,lastpass.com
-USER-AGENT,lastpass*
+USER-AGENT,LastPass*
 PROCESS-NAME,lastpass

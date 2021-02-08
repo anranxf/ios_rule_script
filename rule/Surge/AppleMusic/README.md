@@ -8,7 +8,7 @@
 
 
 
-最后检查时间：2021-01-07 02:59:58。
+最后检查时间：2021-02-08 02:42:28.460769。
 
 ## 规则统计
 
@@ -37,6 +37,10 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surge/AppleMusic/AppleMusic.list
 
 ## 重复统计
+
+
+当前分流规则，未包含其他子规则。
+
 
 
 AppleMusic分流规则，与本项目其他分流规则没有重复。

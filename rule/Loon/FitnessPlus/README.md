@@ -8,7 +8,7 @@
 
 
 
-最后检查时间：2021-01-07 03:00:02。
+最后检查时间：2021-02-08 02:42:44.805582。
 
 ## 规则统计
 
@@ -35,6 +35,10 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Loon/FitnessPlus/FitnessPlus.list
 
 ## 重复统计
+
+
+当前分流规则，未包含其他子规则。
+
 
 
 FitnessPlus分流规则，与本项目其他分流规则没有重复。
